@@ -609,6 +609,26 @@ export const TOKENS: Tokens = {
     },
     tags: ['raydium']
   },
+    SB: {
+    symbol: 'SB',
+    name: 'Solbank',
+    mintAddress: '8twuNzMszqWeFbDErwtf4gw13E6MUS4Hsdx5mi3aqXAM',
+    decimals: 9,
+
+    details:
+      'First actively managed hedge fund protocol in the Solana ecosystem based on reserve currency mechanics.',
+    docs: {
+      website: 'https://solbank.finance/',
+      whitepaper: 'https://solbank.gitbook.io/docs'
+    },
+    socials: {
+      Twitter: 'https://twitter.com/solbankfi',
+      Telegram: 'https://t.me/slbnkentryportal',
+      Medium: 'https://medium.com/@solbankfi',
+      Youtube: 'https://www.youtube.com/@SolbankFinance'
+    },
+    tags: ['raydium']
+  },
   GRAPE: {
     symbol: 'GRAPE',
     name: 'GRAPE',
